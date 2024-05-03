@@ -136,11 +136,9 @@ public class ConversorDeMoedas {
         System.out.println("4. Converter de Real para Euro");
         System.out.println("5. Converter de Euro para Dólar");
         System.out.println("6. Converter de Lene para Real");
-        System.out.println("7. Converter de Libra Esterlina para Real");
-        System.out.println("8. Converter de Franco Suíço para Real");
-        System.out.println("9. Consultar histórico de conversões");
-        System.out.println("10. Consultar logs de conversões");
-        System.out.println("11. Sair");
+        System.out.println("7. Consultar histórico de conversões");
+        System.out.println("8. Consultar logs de conversões");
+        System.out.println("9. Sair");
         System.out.println("Escolha uma opção: ");
         System.out.println("*************************************");
         System.out.println(" ");
