@@ -12,3 +12,6 @@
 
 -API: https://www.exchangerate-api.com
 
+
+
+![Captura de tela 2024-05-03 175046](https://github.com/samuelsadev/Desafio-ONE-Conversor-de-Moedas/assets/165101490/a26564c5-2d64-4f23-8923-a08032c4640b)
