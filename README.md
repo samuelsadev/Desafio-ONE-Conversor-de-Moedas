@@ -4,7 +4,7 @@
 
 # Tecnologias e Dependências Usadas
 
--Java(JDK17)
+-Java(JDK17) \**
 -IDE: IntelliJ IDE
 -Gson
 -API: https://www.exchangerate-api.com
